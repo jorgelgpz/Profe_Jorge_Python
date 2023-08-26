@@ -1,0 +1,38 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 173
+    length: 9
+    placeholder_text: '# TODO'
+  - offset: 275
+    length: 9
+    placeholder_text: '# TODO'
+  - offset: 313
+    length: 9
+    placeholder_text: '# TODO'
+  - offset: 344
+    length: 9
+    placeholder_text: '# TODO'
+  - offset: 484
+    length: 9
+    placeholder_text: '# TODO'
+- name: tests/test_task.py
+  visible: false
+- name: __init__.py
+  visible: false
+- name: tests/__init__.py
+  visible: false
+- name: agregar_contacto.py
+  visible: true
+  placeholders:
+  - offset: 48
+    length: 84
+    placeholder_text: '# TODO'
+- name: buscar_contacto.py
+  visible: true
+  placeholders:
+  - offset: 37
+    length: 156
+    placeholder_text: '# TODO'

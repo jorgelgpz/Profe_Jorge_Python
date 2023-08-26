@@ -1,0 +1,1 @@
+Escriba un programa que permita al usuario agregar, buscar y ver contactos en una agenda. Muestra un menú con opciones para agregar un nuevo contacto con nombre y número de teléfono, buscar un contacto existente por su nombre, y ver todos los contactos en la agenda. Utiliza un bucle while para que el usuario pueda realizar múltiples operaciones antes de salir del programa.
